@@ -1,0 +1,110 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		google_pixel_4__4xl___13
+	 *	@date 		1613921086820
+	 *	@title 		Google Pixel 4, 4XL  13
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/google_pixel_4__4xl___18" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_google_pixel_4__4xl___18_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/_bg__google_pixel_4__4xl___18_ek2"
+					android:background="@drawable/_bg__google_pixel_4__4xl___18_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="412dp"
+					android:layout_height="870dp" />
+
+				<View android:id="@+id/rectangle_5_ek1"
+					android:background="@drawable/rectangle_5_ek1_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="412dp"
+					android:layout_height="870dp" />
+
+				<ImageView android:id="@+id/_path_3_ek1"
+					android:src="@drawable/_path_3_ek1"
+					android:contentDescription="_path_3_ek1"
+					 android:layout_marginLeft="14dp"
+					 android:layout_marginStart="14dp"
+					android:layout_marginTop="121dp"
+					android:layout_width="384.30816650391dp"
+					android:layout_height="384.26379394531dp" />
+
+				<TextView android:id="@+id/juke_ek1"
+					android:fontFamily="Gravesend Sans Inline"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="78sp"
+					android:textColor="@color/juke_color"
+					android:layout_marginLeft="90dp"
+					android:layout_marginTop="460dp"
+					android:layout_width="211dp"
+					android:layout_height="110dp"
+					android:text="@string/juke_ek1_string"
+					 />
+
+				<TextView android:id="@+id/brick_ek1"
+					android:fontFamily="Gravesend Sans Inline"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="80sp"
+					android:textColor="@color/juke_color"
+					android:layout_marginLeft="70dp"
+					android:layout_marginTop="530dp"
+					android:layout_width="252dp"
+					android:layout_height="112dp"
+					android:text="@string/brick_ek1_string"
+					 />
+
+			</RelativeLayout>
+
+
+
+
+			<View android:id="@+id/rectangle_10"
+				android:background="@drawable/rectangle_10_shape"
+				 android:layout_marginLeft="-764dp"
+				 android:layout_marginStart="-764dp"
+				android:layout_marginTop="-60dp"
+				android:layout_width="8dp"
+				android:layout_height="3dp" />
+
+			<View android:id="@+id/rectangle_12"
+				android:background="@drawable/rectangle_12_shape"
+				 android:layout_marginLeft="618dp"
+				 android:layout_marginStart="618dp"
+				android:layout_marginTop="-1114dp"
+				android:layout_width="3dp"
+				android:layout_height="9dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

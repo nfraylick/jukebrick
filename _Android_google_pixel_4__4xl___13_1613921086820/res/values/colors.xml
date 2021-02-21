@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- google_pixel_4__4xl___13 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__google_pixel_4__4xl___13_ek2_color">#ffffff</color>
+	<color name="juke_color">#ae2c2c</color>
+	<color name="juke_ek2_color">#feecb7</color>
+	<color name="rectangle_8_color">#fdedc1</color>
+	<color name="_rectangle_9_color">#ae2c2c</color>
+	<color name="rectangle_25_color">#fdecbc</color>
+	<color name="brick_house_color">#000000</color>
+	<color name="commodores_color">#464646</color>
+	<color name="rectangle_11_color">#000000</color>
+	<color name="another_brick_in_the_wall_color">#ffffff</color>
+	<color name="vote_what_s_up_next__color">#9c9279</color>
+	<color name="rectangle_21_color">#e3e3e3</color>
+</resources>

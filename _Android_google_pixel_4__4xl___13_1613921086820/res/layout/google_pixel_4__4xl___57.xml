@@ -1,0 +1,330 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		google_pixel_4__4xl___13
+	 *	@date 		1613921086820
+	 *	@title 		Google Pixel 4, 4XL  13
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.xd
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/google_pixel_4__4xl___57" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+
+
+			<RelativeLayout android:id="@+id/page_google_pixel_4__4xl___57_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View android:id="@+id/__bg__google_pixel_4__4xl___57_ek2"
+					android:background="@drawable/__bg__google_pixel_4__4xl___57_ek2_shape"
+					 android:layout_marginLeft="0dp"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="412dp"
+					android:layout_height="870dp" />
+
+				<View android:id="@+id/rectangle_24"
+					android:background="@drawable/rectangle_24_shape"
+					 android:layout_marginLeft="1dp"
+					 android:layout_marginStart="1dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="412dp"
+					android:layout_height="871dp" />
+
+				<View android:id="@+id/rectangle_25"
+					android:background="@drawable/rectangle_25_shape"
+					 android:layout_marginLeft="1dp"
+					 android:layout_marginStart="1dp"
+					android:layout_marginTop="486dp"
+					android:layout_width="412dp"
+					android:layout_height="387dp" />
+
+				<ImageView android:id="@+id/image_7"
+					android:src="@drawable/image_7"
+					android:contentDescription="image_7"
+					 android:layout_marginLeft="47dp"
+					 android:layout_marginStart="47dp"
+					android:layout_marginTop="64dp"
+					android:layout_width="318dp"
+					android:layout_height="318dp" />
+
+				<ImageView android:id="@+id/mask_group_2"
+					android:src="@drawable/mask_group_2"
+					android:contentDescription="mask_group_2"
+					 android:layout_marginLeft="56dp"
+					 android:layout_marginStart="56dp"
+					android:layout_marginTop="544dp"
+					android:layout_width="146dp"
+					android:layout_height="134dp" />
+
+				<ImageView android:id="@+id/mask_group_4"
+					android:src="@drawable/mask_group_4"
+					android:contentDescription="mask_group_4"
+					 android:layout_marginLeft="211dp"
+					 android:layout_marginStart="211dp"
+					android:layout_marginTop="544dp"
+					android:layout_width="146dp"
+					android:layout_height="134dp" />
+
+				<ImageView android:id="@+id/mask_group_6"
+					android:src="@drawable/mask_group_6"
+					android:contentDescription="mask_group_6"
+					 android:layout_marginLeft="56dp"
+					 android:layout_marginStart="56dp"
+					android:layout_marginTop="688dp"
+					android:layout_width="146dp"
+					android:layout_height="133dp" />
+
+				<ImageView android:id="@+id/mask_group_8"
+					android:src="@drawable/mask_group_8"
+					android:contentDescription="mask_group_8"
+					 android:layout_marginLeft="211dp"
+					 android:layout_marginStart="211dp"
+					android:layout_marginTop="688dp"
+					android:layout_width="146dp"
+					android:layout_height="133dp" />
+
+				<TextView android:id="@+id/brick_house"
+					android:fontFamily="Proxima Nova"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="39sp"
+					android:textColor="@color/brick_house_color"
+					android:layout_marginLeft="92dp"
+					android:layout_marginTop="389dp"
+					android:layout_width="219dp"
+					android:layout_height="52dp"
+					android:text="@string/brick_house_string"
+					 />
+
+				<TextView android:id="@+id/commodores"
+					android:fontFamily="Proxima Nova"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:alpha="0.5"
+					 android:textSize="21sp"
+					android:textColor="@color/commodores_color"
+					android:layout_marginLeft="138dp"
+					android:layout_marginTop="431dp"
+					android:layout_width="133dp"
+					android:layout_height="27dp"
+					android:text="@string/commodores_string"
+					 />
+
+				<TextView android:id="@+id/now_playing___"
+					android:fontFamily="Proxima Nova"
+					android:textStyle="bold"
+					android:alpha="0.5"
+					 android:textSize="21sp"
+					android:textColor="@color/commodores_color"
+					android:layout_marginLeft="56dp"
+					android:layout_marginTop="38dp"
+					android:layout_width="140dp"
+					android:layout_height="27dp"
+					android:text="@string/now_playing____string"
+					 />
+
+				<View android:id="@+id/rectangle_11"
+					android:background="@drawable/rectangle_11_shape"
+					 android:alpha="0.6"
+					 android:layout_marginLeft="56dp"
+					 android:layout_marginStart="56dp"
+					android:layout_marginTop="622dp"
+					android:layout_width="146dp"
+					android:layout_height="56dp" />
+
+				<View android:id="@+id/rectangle_17"
+					android:background="@drawable/rectangle_17_shape"
+					 android:alpha="0.6"
+					 android:layout_marginLeft="56dp"
+					 android:layout_marginStart="56dp"
+					android:layout_marginTop="765dp"
+					android:layout_width="146dp"
+					android:layout_height="56dp" />
+
+				<View android:id="@+id/rectangle_15"
+					android:background="@drawable/rectangle_15_shape"
+					 android:alpha="0.6"
+					 android:layout_marginLeft="211dp"
+					 android:layout_marginStart="211dp"
+					android:layout_marginTop="622dp"
+					android:layout_width="146dp"
+					android:layout_height="56dp" />
+
+				<View android:id="@+id/rectangle_16"
+					android:background="@drawable/rectangle_16_shape"
+					 android:alpha="0.6"
+					 android:layout_marginLeft="213dp"
+					 android:layout_marginStart="213dp"
+					android:layout_marginTop="765dp"
+					android:layout_width="142dp"
+					android:layout_height="56dp" />
+
+				<TextView android:id="@+id/another_brick_in_the_wall"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="75dp"
+					android:layout_marginTop="627dp"
+					android:layout_width="113dp"
+					android:layout_height="35dp"
+					android:text="@string/another_brick_in_the_wall_string"
+					 />
+
+				<TextView android:id="@+id/brick_by_brick"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="238dp"
+					android:layout_marginTop="635dp"
+					android:layout_width="99dp"
+					android:layout_height="19dp"
+					android:text="@string/brick_by_brick_string"
+					 />
+
+				<TextView android:id="@+id/old_yellow_bricks"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="226dp"
+					android:layout_marginTop="778dp"
+					android:layout_width="123dp"
+					android:layout_height="19dp"
+					android:text="@string/old_yellow_bricks_string"
+					 />
+
+				<TextView android:id="@+id/brick_city_mashin"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="14sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="68dp"
+					android:layout_marginTop="778dp"
+					android:layout_width="123dp"
+					android:layout_height="19dp"
+					android:text="@string/brick_city_mashin_string"
+					 />
+
+				<TextView android:id="@+id/pink_floyd"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="11sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="101dp"
+					android:layout_marginTop="660dp"
+					android:layout_width="61dp"
+					android:layout_height="14dp"
+					android:text="@string/pink_floyd_string"
+					 />
+
+				<TextView android:id="@+id/iggy_pop"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="11sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="262dp"
+					android:layout_marginTop="651dp"
+					android:layout_width="51dp"
+					android:layout_height="14dp"
+					android:text="@string/iggy_pop_string"
+					 />
+
+				<TextView android:id="@+id/arctic_monkeys"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="11sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="244dp"
+					android:layout_marginTop="796dp"
+					android:layout_width="87dp"
+					android:layout_height="14dp"
+					android:text="@string/arctic_monkeys_string"
+					 />
+
+				<TextView android:id="@+id/redman"
+					android:fontFamily="Arial"
+					android:textStyle="bold"
+					android:layout_gravity="center_horizontal|center"
+					android:gravity="center"
+					android:textSize="11sp"
+					android:textColor="@color/another_brick_in_the_wall_color"
+					android:layout_marginLeft="105dp"
+					android:layout_marginTop="796dp"
+					android:layout_width="49dp"
+					android:layout_height="14dp"
+					android:text="@string/redman_string"
+					 />
+
+				<TextView android:id="@+id/vote_what_s_up_next_"
+					android:fontFamily="Proxima Nova"
+					android:textStyle="bold"
+					android:textSize="21sp"
+					android:textColor="@color/vote_what_s_up_next__color"
+					android:layout_marginLeft="56dp"
+					android:layout_marginTop="510dp"
+					android:layout_width="206dp"
+					android:layout_height="27dp"
+					android:text="@string/vote_what_s_up_next__string"
+					 />
+
+			</RelativeLayout>
+
+
+			<View android:id="@+id/rectangle_10"
+				android:background="@drawable/rectangle_10_shape"
+				 android:layout_marginLeft="-764dp"
+				 android:layout_marginStart="-764dp"
+				android:layout_marginTop="-60dp"
+				android:layout_width="8dp"
+				android:layout_height="3dp" />
+
+			<View android:id="@+id/rectangle_12"
+				android:background="@drawable/rectangle_12_shape"
+				 android:layout_marginLeft="618dp"
+				 android:layout_marginStart="618dp"
+				android:layout_marginTop="-1114dp"
+				android:layout_width="3dp"
+				android:layout_height="9dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

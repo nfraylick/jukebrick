@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- google_pixel_4__4xl___13 strings -->
+
+	<string name="app_name">Google Pixel 4, 4XL  13</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="juke_string">Juke</string>
+	<string name="brick_string">Brick</string>
+	<string name="juke_ek1_string">Juke</string>
+	<string name="brick_ek1_string">Brick</string>
+	<string name="juke_ek2_string">Juke</string>
+	<string name="brick_ek2_string">Brick</string>
+	<string name="room_pin_string">Room PIN</string>
+	<string name="enter_string">Enter</string>
+	<string name="brick_house_string">Brick House</string>
+	<string name="commodores_string">Commodores</string>
+	<string name="now_playing____string">Now Playing...</string>
+	<string name="another_brick_in_the_wall_string">Another Brick inthe Wall</string>
+	<string name="brick_by_brick_string">Brick by Brick</string>
+	<string name="old_yellow_bricks_string">Old Yellow Bricks</string>
+	<string name="brick_city_mashin_string">Brick City Mashin</string>
+	<string name="pink_floyd_string">Pink Floyd</string>
+	<string name="iggy_pop_string">Iggy Pop</string>
+	<string name="arctic_monkeys_string">Arctic Monkeys</string>
+	<string name="redman_string">Redman</string>
+	<string name="vote_what_s_up_next__string">Vote Whats Up Next!</string>
+	<string name="brick_house_ek1_string">Brick House</string>
+	<string name="commodores_ek1_string">Commodores</string>
+	<string name="_50__string">50%</string>
+	<string name="_25__string">25%</string>
+	<string name="_0__string">0%</string>
+	<string name="__old_yellow_bricks__is_leading_string">"Old Yellow Bricks" is leading</string>
+	<string name="now_playing____ek1_string">Now Playing...</string>
+	<string name="_25__ek1_string">25%</string>
+</resources>
